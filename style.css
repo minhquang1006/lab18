@@ -1,0 +1,16 @@
+.carousel-item {
+  /* display: block !important; */
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+
+.bg-img1 {
+  background-image: url(/img/HD-wallpaper-full-moon-over-winter-forest.jpg);
+}
+.bg-img2 {
+  background-image: url(/img/HD-wallpaper-romantic-night-shore-full-moon-mountains-clouds-lake.jpg);
+}
+.bg-img3 {
+  background-image: url(/img/HD-wallpaper-full-moon-reflection-water-sky-lake-winter-moon-water-canada-mountains-nature-blue-night.jpg);
+}
